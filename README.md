@@ -1,5 +1,5 @@
 # Restaurant-Demo
-this application show fake data about Restaurant.
+this demo show fake data about Restaurant using Random data Api.
 in this app i uses :
 Kotlin,
 Mvvm,
